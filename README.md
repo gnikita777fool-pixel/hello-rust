@@ -189,8 +189,6 @@ fn main() {
 
 Это предусмотрено исходным заданием. 
 
-<img width="1894" height="189" alt="image" src="https://github.com/user-attachments/assets/e0dcace7-26b0-4fac-a97b-37e882e9df45" />
-
 ---
 
 # 6. Интеграционные тесты
@@ -460,6 +458,8 @@ docker build
      ↓
 hello-rust image
 ```
+
+<img width="1894" height="189" alt="image" src="https://github.com/user-attachments/assets/6541aa7b-623f-494f-843c-947a5d1bb26b" />
 
 Команда соответствует заданию. 
 
