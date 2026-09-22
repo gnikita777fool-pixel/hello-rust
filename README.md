@@ -189,6 +189,8 @@ fn main() {
 
 Это предусмотрено исходным заданием. 
 
+<img width="1894" height="189" alt="image" src="https://github.com/user-attachments/assets/e0dcace7-26b0-4fac-a97b-37e882e9df45" />
+
 ---
 
 # 6. Интеграционные тесты
