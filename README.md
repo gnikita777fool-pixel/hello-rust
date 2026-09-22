@@ -459,8 +459,6 @@ docker build
 hello-rust image
 ```
 
-<img width="1894" height="189" alt="image" src="https://github.com/user-attachments/assets/6541aa7b-623f-494f-843c-947a5d1bb26b" />
-
 Команда соответствует заданию. 
 
 ---
@@ -499,6 +497,7 @@ Arch: x86_64
 Hello, Docker!
 Sum 1..10 = 55
 ```
+<img width="1894" height="189" alt="image" src="https://github.com/user-attachments/assets/19634d70-184f-46db-91bc-d744aa6ff747" />
 
 Это указанный в задании ожидаемый вывод. 
 
