@@ -20,6 +20,8 @@ hello-rust/
 
 Задание знакомит с Cargo, тестами Rust, Docker Multi-stage и GitHub Actions. 
 
+<img width="293" height="226" alt="image" src="https://github.com/user-attachments/assets/805c425c-73ca-41be-86f9-d6a9ff3755b3" />
+
 ---
 
 # 2. Создание проекта
