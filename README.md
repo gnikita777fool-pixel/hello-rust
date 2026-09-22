@@ -497,7 +497,6 @@ Arch: x86_64
 Hello, Docker!
 Sum 1..10 = 55
 ```
-<img width="1894" height="189" alt="image" src="https://github.com/user-attachments/assets/19634d70-184f-46db-91bc-d744aa6ff747" />
 
 Это указанный в задании ожидаемый вывод. 
 
@@ -526,6 +525,8 @@ Sum 1..10 = 55
 ```
 
 ---
+
+<img width="1894" height="189" alt="image" src="https://github.com/user-attachments/assets/b70e8574-617c-45fc-ac91-40985d5a0d4c" />
 
 # 17. Создание репозитория GitHub
 
